@@ -5,7 +5,9 @@ A Power BI dashboard analyzing Netflix data to explore trends in movies and TV s
 This project focuses on analyzing the Netflix dataset to gain meaningful insights into the platform’s content library, including trends in movies and TV shows, ratings, genres, and country-wise distribution. The goal is to explore how Netflix’s content has evolved over time and visualize patterns that can support data-driven decision-making.
 
 >>Dataset used Afterclean
-<a herf="https://github.com/ChanderKadari/Data-Analysis-DashBoard/blob/main/netfilx_data.xlsx%20%20After%20cleaning"> Dataset</a>
+<a herf="https://github.com/ChanderKadari/Data-Analysis-DashBoard/blob/main/netfilx_data.xlsx%20%20After%20cleaning">Dataset</a>
+
+<br>
 >>Dataset Beforeclean
 <a href="https://github.com/ChanderKadari/Data-Analysis-DashBoard/blob/main/netflix_titles_Before_cleaning.csv">Dataset </a>
 
